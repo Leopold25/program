@@ -1,9 +1,9 @@
 <?php
-function ShowMyName()
+function ShowMyName($sss)
 {
 	echo 'Leonid';
 	echo 'Scutari';
 }
-ShowMyName()
+ShowMyName('What');
 
 ?>
