@@ -1,13 +1,7 @@
 <?php
-
-echo 'Privet';
-
-echo 'Poka';
-
-
-echo 'Hello';
-
+function ShowMyName()
+{
+	echo 'Leonid';
+}
+ShowMyName()
 ?>
-<script>
-alert('Privet rtebeata')
-</script>
